@@ -1,4 +1,4 @@
-clear
+clear,clc
 syms S1 A1
 g=9.81;
 gama_1=0*g;
